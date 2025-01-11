@@ -47,21 +47,6 @@ This project predicts salaries for data science professionals based on their qua
 - **Seaborn**
 - **Scikit-learn**
 
-## Setup Instructions
-
-1. Clone the repository:
-   ```bash
-   git clone [repo-url]
-   ```
-2. Install dependencies:
-   ```bash
-   pip install -r requirements.txt
-   ```
-3. Run the project script or Jupyter Notebook:
-   ```bash
-   jupyter notebook JobMarketAnalysis.ipynb
-   ```
-
 ## How It Works
 
 1. **Data Collection**: Scraped 1,222 rows and 15 columns of job-related data from various platforms.
